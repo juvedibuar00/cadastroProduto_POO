@@ -1,6 +1,4 @@
 # CLASSE BASE
-from hashlib import new
-
 
 class Produto:
 
